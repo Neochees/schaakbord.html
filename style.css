@@ -1,0 +1,16 @@
+
+#schaakbord{
+    width: 480px;
+    border: 4px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+.wit{
+    width: 60px;
+    height: 60px;
+}
+.grijs{
+    width: 60px;
+    height: 60px;
+    background-color: gray;
+}
